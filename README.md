@@ -1,6 +1,8 @@
 ![38910776-binary-website-header-banner-computer-digitally-generated-illustration-for-web-site-headers](https://user-images.githubusercontent.com/75949144/206601277-03fdbd37-6843-43ec-b26a-cea37c94c3e9.jpg)
 
 # 💻 JEREMY WILLIAMS, SOFTWARE DEVELOPER 💻
+Email: [📧](jeremy.williams4@snhu.edu)
+GitHub: [🖥️](https://github.com/jeremywilliams4/jeremywilliams4.github.io.git)
 
 ## CS 499 Professional Self-Assessment
   
@@ -256,7 +258,7 @@ public class ClientList {
 			//message informs user that database will be updated with current contents of ArrayList 
 			System.out.println("Sending data to database...");
 			
-			//sends updated data to database by establishing a connection a sending contents of clientList ArrayList
+			//sends updated data to database by establishing a connection and sending contents of clientList ArrayList
 			DatabaseConnection db = new DatabaseConnection();{
 			    try (Connection connect = db.getConnection()) {
 			    	String sql = "INSERT INTO clientList " +
