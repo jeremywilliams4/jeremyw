@@ -16,7 +16,7 @@
 #### *Read on to learn more about the enhancements made to one of my old projects!*
 
 ### *OLD PROGRAM*
-```C++
+```c++
 #include <iostream>
 using namespace std;
 
