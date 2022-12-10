@@ -5,6 +5,9 @@
 
 [![GitHub-Mark](https://user-images.githubusercontent.com/75949144/206854958-062476a0-fa64-4677-85da-78062ea98c0f.png)](https://github.com/jeremywilliams4/jeremywilliams4.github.io.git)
 
+[![youtube-2017-icon-logo-D1FE045118-seeklogo com](https://user-images.githubusercontent.com/75949144/206855579-816ba333-48c1-4528-8eb0-2e93da434663.png)](https://youtu.be/IwnrzGqmY8c)
+
+
 ## CS 499 Professional Self-Assessment
   
 ##    ABOUT ME
