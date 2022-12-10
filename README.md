@@ -1,9 +1,9 @@
 ![38910776-binary-website-header-banner-computer-digitally-generated-illustration-for-web-site-headers](https://user-images.githubusercontent.com/75949144/206601277-03fdbd37-6843-43ec-b26a-cea37c94c3e9.jpg)
 
 # 💻 JEREMY WILLIAMS, SOFTWARE DEVELOPER 💻
-📧 [Email](mailto:jeremy.williams4@snhu.edu)
+[![3158180](https://user-images.githubusercontent.com/75949144/206854903-b07ed3a6-ae58-4e47-a09f-1f1bbfef725b.png)](mailto:jeremy.williams4@snhu.edu)
 
-🖥️ [GitHub](https://github.com/jeremywilliams4/jeremywilliams4.github.io.git)
+[![GitHub-Mark](https://user-images.githubusercontent.com/75949144/206854958-062476a0-fa64-4677-85da-78062ea98c0f.png)](https://github.com/jeremywilliams4/jeremywilliams4.github.io.git)
 
 ## CS 499 Professional Self-Assessment
   
